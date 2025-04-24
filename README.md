@@ -29,9 +29,3 @@ This project implements a Secure Chat Interface utilizing Quantum Key Distributi
 3. Run the Streamlit application by executing streamlit run app.py in the terminal.
 4. Access the application through the provided URL and interact with the secure chat interface.
 
-
-**Contributions:**
-Contributions and feedback are welcome! Feel free to fork the repository, make changes, and submit pull requests for improvements or bug fixes.
-
-**License:**
-This project is licensed under the **MIT License**. See the LICENSE file for details.
